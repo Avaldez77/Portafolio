@@ -1,3 +1,5 @@
+<img width="766" height="510" alt="image" src="https://github.com/user-attachments/assets/2ee52e17-f9ae-42c7-a0e1-2b7fcd1fae3f" />
+
 # SAP Sales Order Download Automation (RPA)
 
 ## 🚀 Executive Summary
