@@ -1,3 +1,5 @@
+<img width="887" height="591" alt="image" src="https://github.com/user-attachments/assets/48f17f15-a91b-4117-ad11-809194fedd68" />
+
 # SAP De-Allocation Automation (RPA)
 
 ## 🚀 Executive Summary
