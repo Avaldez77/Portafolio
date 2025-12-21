@@ -1,3 +1,5 @@
+<img width="930" height="620" alt="image" src="https://github.com/user-attachments/assets/47d695ab-b7bb-476e-8516-b09b0806c8b9" />
+
 # Master Login Automation (RPA)
 
 ## 🎯 Business Problem
