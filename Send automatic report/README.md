@@ -1,3 +1,5 @@
+<img width="982" height="655" alt="image" src="https://github.com/user-attachments/assets/86fca3be-5ea7-45c1-b748-bc4a1e9b62b3" />
+
 # Automated Report Distribution (RPA)
 
 ## 🚀 Executive Summary
